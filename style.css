@@ -1,0 +1,68 @@
+*{
+    margin-left: 5px;
+    font-size: 15px;
+}
+.name{
+    font-size: larger;
+}
+header {
+    text-align: center;
+}
+.edu{
+    margin-top: -15px;
+}
+.grades{
+    margin-top: -1px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    
+}
+hr {
+    margin: -10px;
+}
+.galgotias{
+    margin-top: 2px;
+    
+}
+h6{
+    margin-top: 5px;
+}
+.diploma{
+    margin-top: -15px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.cgpa{
+    margin-top: -12px;
+    font-size:small;
+}
+.work{
+    margin-top: 15px;
+    margin-left: 25px;
+    font-weight: 560;
+}
+.skills
+{
+    margin-top: -15px;
+}
+.projects{
+    font-weight: 700;
+}
+.address{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.code{
+    color: blue;
+    width: 30px;
+    margin-top: -5px;
+}
+.code1{
+    color: blue;
+    width: 30px;
+    margin-top: 2px;
+    cursor: pointer;
+}
+.code:hover{
+    cursor: pointer;
+}
